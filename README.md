@@ -17,7 +17,7 @@
 ### 12 - Programa que leia um número real e mostre sua porção inteira
 ### 13 - Programa que leia o cateto oposto e o cateto adjacente de um triângulo e mostre sua hipotenusa:
 ### 14 - Programa que leia um ângulo qualquer e mostre o valor de seu seno, cosseno e tangente.
-###15 - Programa que leia nome de quatro alunos e sorteie um aluno:
+### 15 - Programa que leia nome de quatro alunos e sorteie um aluno:
 ### 16 - Programa que troca a ordem da lista:
 ### 17 - Programa que leia o nome completo de uma pessoa e mostre:
 - O nome completo com todas as letras maiúsculas:
@@ -25,7 +25,7 @@
 - Todas as letras sem considerar espaços 
 - Quantas letras tem o primeiro nome
 ### 18 - Programa que leia um número de quatro dígitos e retorne com cada caracter:
-###19 - Programa que leia o nome de uma cidade e diga se começa ou não com a palavra Santo.
+### 19 - Programa que leia o nome de uma cidade e diga se começa ou não com a palavra Santo.
 ### 20 - leia o nome de uma pessoa e diga se possui Silva:
 ### 21 - Programa que leia uma frase e mostre quantas vezes aparece a letra 'a', em que posição aparece pela primeira vez a letra e em que posição aparece pela última vez.
 ### 22 - Programa que identifica seu primeiro e último nome:
